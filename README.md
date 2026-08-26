@@ -1,0 +1,1 @@
+# CodeAlpha_Task2_Sensor_Simulation
